@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nursenaaksunger
 - :books:  I’m a PhD candidate in Economics at VU Amsterdam. 
-- 👀 My research focuses on how poverty and mental health are interlinked. 
+- 👀 My research focuses on poverty and mental health. 
 - 📫 You can reach me via nursenaaksunger@gmail.com
 
 <!---
